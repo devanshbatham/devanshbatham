@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋 Heya, I am Devansh(Asm0d3us) 
 
-<!--
-**devanshbatham/devanshbatham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Cyber Security Enthusiast 💻 and a Python developer , I break into applications for fun and profit , Reported 300+ bugs to 60+ different companies including tech giants like Google , Facebook , Microsoft  , Dell , Nokia and many more . I play CTFs very often as Asm0d3us , I love 💖 doing things for the infosec community , I contribute to community by opensourcing hacking related tools and writing blog posts 
 
-Here are some ideas to get you started:
+### My skillset 🔧
+- ✔️ Web Application Penetration Testing 
+-  ✔️Playing CTFs and Hacking related challenges
+- ✔️ Mobile Application Penetration Testing
+- ✔️ Networking 
+- ✔️ Python , Javascript , NodeJS  , C/C++
+- ✔️ Automating boring tasks with programming 
+- ✔️ OSINT 
+- ✔️ Forensics 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find me around the world 🌍
+- Twitter : [@0xAsm0d3us](https://twitter.com/0xAsm0d3us)
+- LinkedIn : [Devansh Batham](https://www.linkedin.com/in/devansh-batham-348b6916b/)
+- Medium : [@Asm0d3us](https://medium.com/@Asm0d3us)
