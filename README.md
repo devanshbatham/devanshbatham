@@ -13,9 +13,9 @@ I am a Cyber Security Enthusiast 💻 and a Python developer , I break into appl
 - ✔️ Forensics 
 
 ### Find me around the world 🌍
-- Twitter : [@0xAsm0d3us](https://twitter.com/0xAsm0d3us)
-- LinkedIn : [Devansh Batham](https://www.linkedin.com/in/devansh-batham-348b6916b/)
-- Blog : https://devansh.xyz/posts/
+- [Twitter : @0xAsm0d3us](https://twitter.com/0xAsm0d3us)
+- [LinkedIn](https://www.linkedin.com/in/devansh-batham-348b6916b/)
+- [Blog](https://devansh.xyz/posts/)
 
 ### __Want to support my work?__
 If you think my work has added some value to your existing knowledge, then you can [Buy me a Coffee here](https://www.buymeacoffee.com/Asm0d3us) (and who doesn't loves a good cup of coffee?')
