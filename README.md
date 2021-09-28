@@ -1,16 +1,21 @@
 ### 👋 Heya, I am Devansh(Asm0d3us) 
 
-I am a Cyber Security Enthusiast 💻 and a Python developer , I break into applications for fun and profit , Reported 600+ bugs to 90+ different companies including tech giants like Google , Facebook , Microsoft  , Dell , Nokia and many more . I play CTFs very often as Asm0d3us , I love 💖 doing things for the infosec community , I contribute to community by opensourcing [hacking related tools](https://portswigger.net/daily-swig/paramspider-new-tool-helps-in-the-discovery-of-url-parameter-vulnerabilities) and writing [blog posts](https://medium.com/@Asm0d3us)
+Skilled and adaptable team player. Builder, developer, problem solver and
+penetration tester. Multiple open source community projects have made a
+lasting impact in the field of Application Security. Consistent Security
+Researcher with the desire to make a difference.
 
 ### My skillset 🔧
-- ✔️ Web Application Penetration Testing 
--  ✔️Playing CTFs and Hacking related challenges
-- ✔️ Mobile Application Penetration Testing
+- ✔️ Web/Mobile Application Penetration Testing 
+- ✔️ CTFs
 - ✔️ Networking 
-- ✔️ Python , Javascript , NodeJS  , C/C++
-- ✔️ Automating boring tasks with programming 
-- ✔️ OSINT 
+- ✔️ Python , Javascript , NodeJS  , C/C++, Solidity
+- ✔️ Automating boring tasks with programming
+- ✔️ OSINT
 - ✔️ Forensics 
+- ✔️ Reverse Engineering
+- ✔️ Source code review  
+- ✔️ Blockchain Security 
 
 ### Find me around the world 🌍
 - [Twitter : @0xAsm0d3us](https://twitter.com/0xAsm0d3us)
