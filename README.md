@@ -22,7 +22,7 @@ Researcher with the desire to make a difference.
 ---
 
 ### Find me around the world 🌍
-- [Twitter : @0xAsm0d3us](https://twitter.com/0xAsm0d3us)
+- [Twitter](https://twitter.com/0xAsm0d3us)
 - [LinkedIn](https://www.linkedin.com/in/devansh-batham-348b6916b/)
 - [Blog](https://devansh.xyz/posts/)
 
