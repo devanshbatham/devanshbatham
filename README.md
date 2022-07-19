@@ -1,6 +1,6 @@
 ### 👋 Heya, I am Devansh(Asm0d3us) 
 
-Skilled and adaptable team player. Builder, developer, problem solver and
+Adaptable team player. Builder, developer, problem solver and
 penetration tester. Multiple open source community projects have made a
 lasting impact in the field of Application Security. Consistent Security
 Researcher with the desire to make a difference.
