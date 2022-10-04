@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[demo.gif](https://media.tenor.com/pAKZEXG8N88AAAAC/kinako-love.gif)" alt="animated" />
+  <img src="[](https://media.tenor.com/pAKZEXG8N88AAAAC/kinako-love.gif)" alt="animated" />
 </p>
 
 
