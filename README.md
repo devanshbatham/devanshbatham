@@ -1,8 +1,7 @@
+<p align="center">
+  <img src="[demo.gif](https://media.tenor.com/pAKZEXG8N88AAAAC/kinako-love.gif)" alt="animated" />
+</p>
 
-<p align="centre">
-
-![Alt Text](https://media.tenor.com/pAKZEXG8N88AAAAC/kinako-love.gif)
- </p>
 
 
 ### GitHub Stats:
