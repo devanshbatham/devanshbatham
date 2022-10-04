@@ -1,5 +1,8 @@
 
+<p align="centre">
+
 ![Alt Text](https://media.tenor.com/pAKZEXG8N88AAAAC/kinako-love.gif)
+ </p>
 
 
 ### GitHub Stats:
