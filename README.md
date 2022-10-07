@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/pAKZEXG8N88AAAAC/kinako-love.gif" alt="animated" />
+  *“O, why should nature build so foul a den, Unless the gods delight in tragedies?”* 
 </p>
 
 
