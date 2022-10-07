@@ -18,11 +18,6 @@
   
   </div>
 
- <div align = "center">
-  <a href ="https://github.com/devanshbatham" title="Redirect's to Devansh's Github">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshbatham&hide=Shell,Mustache,C,Dockerfile,Html,Css&theme=radical&layout=compact"/></a>
-  </div>
-
 </p>
 
 ---
