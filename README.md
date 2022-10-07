@@ -4,8 +4,6 @@
 
 
 
-### GitHub Stats:
-
 <p align="centre">
  
  <div align = "center">
