@@ -1,5 +1,6 @@
 <p align="center">
   <i>“O, why should nature build so foul a den, Unless the gods delight in tragedies?”</i>
+   <br><hr>
 </p>
 
 
@@ -7,7 +8,7 @@
 <p align="centre">
  
  <div align = "center">
-   <img src="https://pbs.twimg.com/media/Fls7zEaakAIurK9?format=jpg&name=medium">
+   <img src="https://pbs.twimg.com/media/Fls7zEaakAIurK9?format=jpg&name=small">
  <br><hr>
   
 
