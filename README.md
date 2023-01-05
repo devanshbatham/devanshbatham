@@ -7,7 +7,7 @@
 <p align="centre">
  
  <div align = "center">
-   <img src="https://raw.githubusercontent.com/devanshbatham/devanshbatham/master/kekw.jpg">
+   <img src="https://pbs.twimg.com/media/Fls7zEaakAIurK9?format=jpg&name=medium">
  <br><hr>
   
 
