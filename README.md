@@ -7,9 +7,10 @@
 <p align="centre">
  
  <div align = "center">
- 
+   <img src="https://raw.githubusercontent.com/devanshbatham/devanshbatham/master/kekw.jpg">
  <br><hr>
   
+
   <a href="https://github.com/devanshbatham" title="Redirect's to Devansh's Github">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devanshbatham&show_icons=true&theme=radical&count_private=true" /></a>
 
