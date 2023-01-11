@@ -8,7 +8,7 @@
 <p align="centre">
  
  <div align = "center">
-   <img src="https://pbs.twimg.com/media/Fls7zEaakAIurK9?format=jpg&name=small">
+   <img src="https://pbs.twimg.com/media/FmLedHoakAAqHMS?format=jpg&name=small">
  <br><hr>
   
 
