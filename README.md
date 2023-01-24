@@ -3,14 +3,3 @@
    <br><hr>
 </p>
 
-
-
-<p align="centre">
- 
- <div align = "center">
-   <img src="https://pbs.twimg.com/media/FmLedHoakAAqHMS?format=jpg&name=small">
- <br><hr>
-  
-  
-  </div>
-
