@@ -12,3 +12,9 @@
 
 
 
+### Knowledge Bases 💡
+- [Awesome Bugbounty Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups) - A curated list of bugbounty writeups (Bug type wise)
+- [Vulnerabilities Unmasked](https://github.com/devanshbatham/Vulnerabilities-Unmasked) -  This repo tries to explain complex security vulnerabilities in simple terms that even a five-year-old can understand!
+- [Everything About DNS](https://github.com/devanshbatham/Everything-About-DNS) - This repo aims to explain the basics of DNS at different levels of complexity for readers with various technical backgrounds.
+- [Solidity Gas Optimization Tips](https://github.com/devanshbatham/Solidity-Gas-Optimization-Tips) -  Solidity Gas Optimization Tips and Tricks
+- [Awesome Bughunting Oneliners](https://github.com/devanshbatham/awesome-bughunting-oneliners) -  A list of Awesome Bughunting oneliners, collected from the various sources 
