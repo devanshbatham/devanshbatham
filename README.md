@@ -1,4 +1,11 @@
 
+
+
+<p align="center">
+![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshbatham&show_icons=true&theme=synthwave)
+</p>
+
+
 ### Projects 🏗️
 - [ParamSpider](https://github.com/devanshbatham/ParamSpider) -  Mining parameters from dark corners of Web Archives
 - [FavFreak](https://github.com/devanshbatham/FavFreak) -  Making Favicon.ico based Recon Great again 
