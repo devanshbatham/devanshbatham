@@ -1,9 +1,9 @@
+## Hey, It's Devansh 👋
 
+<a href="https://github.com/devanshbatham">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devanshbatham&show_icons=true&theme=synthwave" />
+</a>
 
-
-<p align="center">
-![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshbatham&show_icons=true&theme=synthwave)
-</p>
 
 
 ### Projects 🏗️
@@ -24,4 +24,8 @@
 - [Vulnerabilities Unmasked](https://github.com/devanshbatham/Vulnerabilities-Unmasked) -  Learn complex security vulnerabilities in simple terms that even a five-year-old can understand!
 - [Everything About DNS](https://github.com/devanshbatham/Everything-About-DNS) - Explains the basics of DNS at different levels of complexity for readers with various technical backgrounds.
 - [Solidity Gas Optimization Tips](https://github.com/devanshbatham/Solidity-Gas-Optimization-Tips) -  Solidity Gas Optimization Tips and Tricks
-- [Awesome Bughunting Oneliners](https://github.com/devanshbatham/awesome-bughunting-oneliners) -  A list of Awesome Bughunting oneliners, collected from the various sources 
+- [Awesome Bughunting Oneliners](https://github.com/devanshbatham/awesome-bughunting-oneliners) -  A list of Awesome Bughunting oneliners, collected from the various sources
+
+
+
+
