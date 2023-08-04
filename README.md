@@ -1,8 +1,10 @@
-## Hey, It's Devansh 👋
+-----------
 
-<a href="https://github.com/devanshbatham">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devanshbatham&show_icons=true&theme=synthwave" />
-</a>
+<h1 align="center">
+   Hey, It's Devansh ⚡
+  <br>
+</h1>
+
 
 
 
