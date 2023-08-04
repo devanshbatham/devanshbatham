@@ -12,10 +12,10 @@
 - [OpenRedireX](https://github.com/devanshbatham/OpenRedireX) - A Fuzzer for OpenRedirect issues
 - [CertEagle](https://github.com/devanshbatham/CertEagle) - Weaponizing Live CT logs for automated monitoring of assets
 - [ArchiveFuzz](https://github.com/devanshbatham/ArchiveFuzz) -  Hunt down the secrets from the WebArchives for Fun and Profit
-- [ShadowClone](https://github.com/devanshbatham/ShadowClone) -  Let's you turn single threaded CLI utilities into blazing fast multithreaded utilities
+- [ShadowClone](https://github.com/devanshbatham/ShadowClone) - ShadowClone empowers you to execute multiple commands in parallel for blazing-fast performance. 
 - [autoreport](https://github.com/devanshbatham/autoreport) - A bug report template generator powered by LLMs via Poe. 
-- [DNSleuth](https://github.com/devanshbatham/DNSleuth) -  Utility that sniffs DNS packets i.e lets you spy on the DNS queries your machine is making 
-- [Watson](https://github.com/devanshbatham/Watson) - A lightweight utility that allows you to manage and search notes from the command line
+- [DNSleuth](https://github.com/devanshbatham/DNSleuth) - DNSleuth sniffs DNS packets, i.e, allowing you to spy on the DNS queries your machine is making. 
+- [Watson](https://github.com/devanshbatham/Watson) - Watson is a utility for note management and search from your terminal. 
 
 
 
