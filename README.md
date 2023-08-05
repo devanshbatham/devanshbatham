@@ -20,6 +20,7 @@
 - [Watson](https://github.com/devanshbatham/Watson) - Watson is a utility for note management and search from your terminal. 
 - [ip2cloud](https://github.com/devanshbatham/ip2cloud) -  Check IP addresses against known cloud provider IP address ranges
 - [getresolvers](https://github.com/devanshbatham/getresolvers) - A simple utility to fetch freshly updated DNS resolvers
+- [revwhoix](https://github.com/devanshbatham/revwhoix) -  A simple utility to perform reverse WHOIS lookups using whoisxml API
 
 
 
