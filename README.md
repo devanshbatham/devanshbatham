@@ -15,7 +15,6 @@
 - [CertEagle](https://github.com/devanshbatham/CertEagle) - Weaponizing Live CT logs for automated monitoring of assets
 - [ArchiveFuzz](https://github.com/devanshbatham/ArchiveFuzz) -  Hunt down the secrets from the WebArchives for Fun and Profit
 - [ShadowClone](https://github.com/devanshbatham/ShadowClone) - ShadowClone empowers you to execute multiple commands in parallel for blazing-fast performance. 
-- [autoreport](https://github.com/devanshbatham/autoreport) - A bug report template generator powered by LLMs via Poe. 
 - [DNSleuth](https://github.com/devanshbatham/DNSleuth) - DNSleuth sniffs DNS packets, i.e, allowing you to spy on the DNS queries your machine is making. 
 - [Watson](https://github.com/devanshbatham/Watson) - Watson is a utility for note management and search from your terminal. 
 - [ip2cloud](https://github.com/devanshbatham/ip2cloud) -  Check IP addresses against known cloud provider IP address ranges
