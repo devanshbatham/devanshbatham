@@ -11,7 +11,7 @@
 ### Projects 🏗️
 - [ParamSpider](https://github.com/devanshbatham/ParamSpider) -  Mining parameters from dark corners of Web Archives
 - [FavFreak](https://github.com/devanshbatham/FavFreak) -  Making Favicon.ico based Recon Great again 
-- [OpenRedireX](https://github.com/devanshbatham/OpenRedireX) - A Fuzzer for OpenRedirect issues
+- [OpenRedireX](https://github.com/devanshbatham/OpenRedireX) - A fuzzer for detecting open redirect vulnerabilities
 - [CertEagle](https://github.com/devanshbatham/CertEagle) - Weaponizing Live CT logs for automated monitoring of assets
 - [ArchiveFuzz](https://github.com/devanshbatham/ArchiveFuzz) -  Hunt down the secrets from the WebArchives for Fun and Profit
 - [ShadowClone](https://github.com/devanshbatham/ShadowClone) - ShadowClone empowers you to execute multiple commands in parallel for blazing-fast performance. 
