@@ -21,7 +21,8 @@
 - [revwhoix](https://github.com/devanshbatham/revwhoix) -  A simple utility to perform reverse WHOIS lookups using whoisxml API
 - [heaptruffle](https://github.com/devanshbatham/heaptruffle) -  Mine URLs from Browser's Heap Snapshot for fun and profit
 - [ip2asn](https://github.com/devanshbatham/ip2asn) -  A utility to quickly map IP addresses to their respective ASN
-- [revit](https://github.com/devanshbatham/revit) -  A command-line utility for performing reverse DNS lookups 
+- [revit](https://github.com/devanshbatham/revit) -  A command-line utility for performing reverse DNS lookups
+- [getsan](https://github.com/devanshbatham/getsan) - A utility to fetch and display dns names from the SSL/TLS cert data
 
 
 
