@@ -9,7 +9,7 @@
 
 
 ### Projects 🏗️
-- [ParamSpider](https://github.com/devanshbatham/ParamSpider) -  Mining parameters from dark corners of Web Archives
+- [ParamSpider](https://github.com/devanshbatham/ParamSpider) -  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing
 - [FavFreak](https://github.com/devanshbatham/FavFreak) -  Making Favicon.ico based Recon Great again 
 - [OpenRedireX](https://github.com/devanshbatham/OpenRedireX) - A fuzzer for detecting open redirect vulnerabilities
 - [CertEagle](https://github.com/devanshbatham/CertEagle) - Weaponizing Live CT logs for automated monitoring of assets
