@@ -23,7 +23,8 @@
 - [ip2asn](https://github.com/devanshbatham/ip2asn) -  A utility to quickly map IP addresses to their respective ASN
 - [revit](https://github.com/devanshbatham/revit) -  A command-line utility for performing reverse DNS lookups
 - [getsan](https://github.com/devanshbatham/getsan) - A utility to fetch and display dns names from the SSL/TLS cert data
-- [headerpwn](https://github.com/devanshbatham/headerpwn) -  A fuzzer for finding anomalies and analyzing how servers respond to different HTTP headers 
+- [headerpwn](https://github.com/devanshbatham/headerpwn) -  A fuzzer for finding anomalies and analyzing how servers respond to different HTTP headers
+- [dnsaudit](https://github.com/devanshbatham/dnsaudit) -  A command-line utility for auditing DNS configuration using Zonemaster API 
 
 
 
