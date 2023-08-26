@@ -26,6 +26,7 @@
 - [headerpwn](https://github.com/devanshbatham/headerpwn) -  A fuzzer for finding anomalies and analyzing how servers respond to different HTTP headers
 - [dnsaudit](https://github.com/devanshbatham/dnsaudit) -  A command-line utility for auditing DNS configuration using Zonemaster API
 - [rayder](https://github.com/devanshbatham/rayder) - A lightweight tool for orchestrating and organizing your bug hunting recon / pentesting command-line workflows
+- [realm](https://github.com/devanshbatham/realm) -  A utility for recursively traversing SSL/TLS certificates for collecting DNS names
 
 
 
