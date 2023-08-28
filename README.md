@@ -6,7 +6,6 @@
 </h1>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshbatham)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Projects 🏗️
@@ -37,6 +36,11 @@
 - [Everything About DNS](https://github.com/devanshbatham/Everything-About-DNS) - Explains the basics of DNS at different levels of complexity for readers with various technical backgrounds.
 - [Solidity Gas Optimization Tips](https://github.com/devanshbatham/Solidity-Gas-Optimization-Tips) -  Solidity Gas Optimization Tips and Tricks
 
+
+## Contact 📞
+
+- [Twitter](https://x.com/0xasm0d3us)
+- [LinkedIn](https://www.linkedin.com/in/devansh-batham/)
 
 
 
