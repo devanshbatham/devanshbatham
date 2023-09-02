@@ -6,6 +6,10 @@
 </h1>
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devanshbatham&count_private=true&show_icons=true&theme=dracula&exclude_repo=42">
+</p>
+
 
 
 ### Projects 🏗️
