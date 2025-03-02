@@ -11,6 +11,13 @@
 </p>
 
 
+### Writings ⚡
+ - [Prompt Injection Attacks for Dummies](https://devanshbatham.hashnode.dev/prompt-injection-attacks-for-dummies)
+ - [Fragility of The Internet: How Sacrificial Nameservers allowed potential DNS hijacking of 1.6+ million domains](https://devanshbatham.hashnode.dev/fragility-of-the-internet)
+ - [Horrors of DNS: A Tale of 1800 potential domain takeovers due to mistyped NS](https://devanshbatham.hashnode.dev/horrors-of-dns-tale-of-1800-potential-domain-takeovers-due-to-mistyped-ns)
+ - [Trojan War against SOTA LLMs](https://devanshbatham.hashnode.dev/trojan-war-against-sota-llms)
+
+
 
 ### Projects 🏗️
 - [ParamSpider](https://github.com/devanshbatham/ParamSpider) -  Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing
@@ -32,13 +39,6 @@
 - [rayder](https://github.com/devanshbatham/rayder) - A lightweight tool for orchestrating and organizing your bug hunting recon / pentesting command-line workflows
 - [realm](https://github.com/devanshbatham/realm) -  A utility for recursively traversing SSL/TLS certificates for collecting DNS names
 
-
-
-### Knowledge Bases 💡
-- [Awesome Bugbounty Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups) - A curated list of bugbounty writeups (Bug type wise)
-- [Vulnerabilities Unmasked](https://github.com/devanshbatham/Vulnerabilities-Unmasked) -  Learn complex security vulnerabilities in simple terms that even a five-year-old can understand!
-- [Everything About DNS](https://github.com/devanshbatham/Everything-About-DNS) - Explains the basics of DNS at different levels of complexity for readers with various technical backgrounds.
-- [Solidity Gas Optimization Tips](https://github.com/devanshbatham/Solidity-Gas-Optimization-Tips) -  Solidity Gas Optimization Tips and Tricks
 
 
 ## Contact 📞
