@@ -43,7 +43,7 @@
 
 ## Contact 📞
 
-- [Twitter](https://x.com/0xasm0d3us)
+- [X](https://x.com/0xasm0d3us)
 - [LinkedIn](https://www.linkedin.com/in/devansh-batham/)
 
 
