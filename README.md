@@ -12,11 +12,19 @@
 
 
 ### Writings ⚡
- - [Prompt Injection Attacks for Dummies](https://devanshbatham.hashnode.dev/prompt-injection-attacks-for-dummies)
- - [Fragility of The Internet: How Sacrificial Nameservers allowed potential DNS hijacking of 1.6+ million domains](https://devanshbatham.hashnode.dev/fragility-of-the-internet)
- - [Horrors of DNS: A Tale of 1800 potential domain takeovers due to mistyped NS](https://devanshbatham.hashnode.dev/horrors-of-dns-tale-of-1800-potential-domain-takeovers-due-to-mistyped-ns)
- - [Trojan War against SOTA LLMs](https://devanshbatham.hashnode.dev/trojan-war-against-sota-llms)
 
+| Publish Date | Blog Title |
+|--------------|------------|
+| 2025-11-30 | [Reflections on my 5 years at HackerOne](https://devansh.bearblog.dev/reflections/) |
+| 2025-11-07 | [Hitchhiker's Guide to Attack Surface Management](https://devansh.bearblog.dev/attack-surface-management/) |
+| 2025-11-04 | [AI pentest scoping playbook](https://devansh.bearblog.dev/ai-pentest-scoping/) |
+| 2025-11-03 | [On AI Slop vs OSS Security](https://devansh.bearblog.dev/ai-slop/) |
+| 2025-11-03 | [Art of Learning](https://devansh.bearblog.dev/art-of-learning/) |
+| 2025-10-22 | [On Higher Order thinking](https://devansh.bearblog.dev/higher-order-thinking/) |
+| 2025-10-21 | [On Learning](https://devansh.bearblog.dev/on-learning/) |
+| 2025-02-10 | [Fragility of The Internet: How Sacrificial Nameservers allowed potential DNS hijacking of 1.6+ million domains](https://devansh.bearblog.dev/fragility-of-the-internet/) |
+| 2025-01-28 | [Horrors of DNS: A Tale of 1800 potential domain takeovers due to mistyped NS](https://devansh.bearblog.dev/horrors-of-dns/) |
+| 2025-01-25 | [Trojan War against State-of-the-Art LLMs](https://devansh.bearblog.dev/trojan-vs-llms/) |
 
 
 ### Projects 🏗️
@@ -46,10 +54,10 @@
 
 
 
-## Contact 📞
+## Socials
 
 - [X](https://x.com/0xasm0d3us)
 - [LinkedIn](https://www.linkedin.com/in/devansh-batham/)
-
+- **Email**: `devanshbatham009 [at] gmail [dot] com`
 
 
