@@ -11,9 +11,9 @@
 </p>
 
 
---------
 
-### Writings ⚡
+
+## Writings ⚡
 
 | Publish Date | Writing |
 |--------------|------------|
@@ -29,10 +29,9 @@
 | 2025-01-25 | [Trojan War against State-of-the-Art LLMs](https://devansh.bearblog.dev/trojan-vs-llms/) |
 
 
---------
 
 
-### Projects 🏗️
+## Projects 🏗️
 
 
 
@@ -58,7 +57,6 @@
 | [getsan](https://github.com/devanshbatham/getsan) | Fetch and display DNS names from SSL/TLS cert data |
 
 
---------
 
 
 ## Socials
