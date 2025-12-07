@@ -1,7 +1,7 @@
 -----------
 
 <h1 align="center">
-   Hey, It's Devansh ⚡
+   Hey, Devansh here ⚡
   <br>
 </h1>
 
@@ -13,7 +13,7 @@
 
 ### Writings ⚡
 
-| Publish Date | Blog Title |
+| Publish Date | Writing |
 |--------------|------------|
 | 2025-11-30 | [Reflections on my 5 years at HackerOne](https://devansh.bearblog.dev/reflections/) |
 | 2025-11-07 | [Hitchhiker's Guide to Attack Surface Management](https://devansh.bearblog.dev/attack-surface-management/) |
