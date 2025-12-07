@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devanshbatham/devanshbatham/refs/heads/master/griffith.jpg">
+  <img src="https://raw.githubusercontent.com/devanshbatham/devanshbatham/refs/heads/master/02pm-2.webp">
 </p>
 
 
