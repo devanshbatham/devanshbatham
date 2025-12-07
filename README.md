@@ -1,4 +1,4 @@
------------
+
 
 <h1 align="center">
    Hey, Devansh here ⚡
@@ -10,6 +10,8 @@
   <img src="https://raw.githubusercontent.com/devanshbatham/devanshbatham/refs/heads/master/02pm-2.webp">
 </p>
 
+
+--------
 
 ### Writings ⚡
 
@@ -25,6 +27,9 @@
 | 2025-02-10 | [Fragility of The Internet: How Sacrificial Nameservers allowed potential DNS hijacking of 1.6+ million domains](https://devansh.bearblog.dev/fragility-of-the-internet/) |
 | 2025-01-28 | [Horrors of DNS: A Tale of 1800 potential domain takeovers due to mistyped NS](https://devansh.bearblog.dev/horrors-of-dns/) |
 | 2025-01-25 | [Trojan War against State-of-the-Art LLMs](https://devansh.bearblog.dev/trojan-vs-llms/) |
+
+
+--------
 
 
 ### Projects 🏗️
@@ -52,6 +57,8 @@
 | [realm](https://github.com/devanshbatham/realm) | Utility for recursively traversing SSL/TLS certificates for collecting DNS names |
 | [getsan](https://github.com/devanshbatham/getsan) | Fetch and display DNS names from SSL/TLS cert data |
 
+
+--------
 
 
 ## Socials
