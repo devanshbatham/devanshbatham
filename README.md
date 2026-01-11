@@ -1,3 +1,12 @@
+Hi, this is [Devansh ⚡](https://x.com/0xAsm0d3us). I break things for a living and help others understand why they broke.
+
+I've spent the nearly a decade in security, from hunting bugs, to studying DNS and supply chain weaknesses, to auditing smart contracts, and reviewing vulnerability reports as a triager at [HackerOne](https://hackerone.com). 
+
+Along the way, I've reported hundreds of vulnerabilities to 100+ companies, built some [open-source tools 🏗️](https://devansh.bearblog.dev/projects/) that people seem to find useful (over 10k+ GitHub Stars), and led large-scale penetration tests across every kind of infrastructure imaginable.
+
+I’ve seen security from every angle - bug hunter, vulnerability researcher, triager, blockchain security auditor, open source developer, and now as Team Lead, Technical Services (Triage) at [HackerOne](https://hackerone.com). . 
+
+------
 
 ## Projects 🏗️
 
