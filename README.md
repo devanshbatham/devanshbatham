@@ -1,6 +1,6 @@
 Hi, this is [Devansh ⚡](https://x.com/0xAsm0d3us). I break things for a living and help others understand why they broke.
 
-Nearly a decade in security. Bug hunting, Security research, DNS & Supply Chain research, Smart contract audits, and Vulnerability triage at [HackerOne](https://hackerone.com). I've reported hundreds of bugs to 100+ companies, built [open-source tools](https://devansh.bearblog.dev/projects/) with 10k+ GitHub stars, and now lead Technical Services (Triage) at HackerOne.
+Nearly a decade in security. Bug hunting, Security research related to DNS & Supply Chain Security, AI Security, Smart contract audits, and Vulnerability triage at [HackerOne](https://hackerone.com). I've reported hundreds of bugs to 100+ companies, built [open-source tools](https://devansh.bearblog.dev/projects/) with 10k+ GitHub stars, and now lead Technical Services (Triage) at HackerOne.
 
 
 ------
